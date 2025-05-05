@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944530451326",
+    "project_id": "mple-firebase-a",
+    "storage_bucket": "mple-firebase-a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944530451326:android:1326e650fd1a615a65612f",
+        "android_client_info": {
+          "package_name": "com.fluxopro.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEZWLiXZdYgC15rkzfRAqUnIBM3JU7frE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944530451326:android:f500421f36952c2865612f",
+        "android_client_info": {
+          "package_name": "com.fluxopro1.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEZWLiXZdYgC15rkzfRAqUnIBM3JU7frE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
